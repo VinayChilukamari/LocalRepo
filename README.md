@@ -1,0 +1,1 @@
+# Checking first git repository
